@@ -6,3 +6,5 @@ A collection of simple bash scripts intended for daily usage
    * Ensures that commits to GitHub are always done with the according GitHub user settings
 1. [git-pullall.sh](git-pullall.sh) *Pull all git repositories in current directories*
    * Change into every directory that is has a .git directory and run git pull
+1. [git-statusall.sh](git-statusall.sh) *Check all git repositories status in current directories*
+   * Change into every directory that is has a .git directory and run git status
